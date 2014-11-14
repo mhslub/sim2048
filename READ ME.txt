@@ -1,0 +1,5 @@
+This is the code behind the Android app SIM2048.
+The code is developed using Eclipse and is free to browse.
+
+Download the app from google play:
+https://play.google.com/store/apps/details?id=com.mhdlub.sim2048
